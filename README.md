@@ -9,6 +9,7 @@ Currently, this repository contains:
 ### ☕ Java Programs
 * **Compound Interest Calculator:** A console application that calculates compound interest over a specified number of years.
 * **MadLibs-Game** An interactive story generator that takes user input to build funny sentences.
+* **Shopping-Cart** A console program to calculate the total checkout price for purchased items.
 *(More projects will be added here as I continue building!)*
 
 ## 🛠️ How to Run
