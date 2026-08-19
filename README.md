@@ -7,7 +7,8 @@ Welcome to my Java workspace! This repository is a collection of Java programs I
 Currently, this repository contains:
 
 ### ☕ Java Programs
-* **Compound Interest Calculator:** A console application that calculates compound interest over a specified number of years. 
+* **Compound Interest Calculator:** A console application that calculates compound interest over a specified number of years.
+* **MadLibs-Game** An interactive story generator that takes user input to build funny sentences.
 *(More projects will be added here as I continue building!)*
 
 ## 🛠️ How to Run
