@@ -11,7 +11,7 @@ Currently, this repository contains:
 * **MadLibs-Game** An interactive story generator that takes user input to build funny sentences.
 * **Shopping-Cart** A console program to calculate the total checkout price for purchased items.
 * **Email Slicer Program** A console program to determine the username and domain from the given Mail.
-* **Weight Converter Program ** It converts the given weight to kgs to Lbs and vice versa.
+* **Weight Converter Program** It converts the given weight to kgs to Lbs and vice versa.
 *(More projects will be added here as I continue building!)*
 
 ## 🛠️ How to Run
