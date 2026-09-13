@@ -13,6 +13,7 @@ Currently, this repository contains:
 * **Email Slicer Program** A console program to determine the username and domain from the given Mail.
 * **Weight Converter Program** It converts the given weight to kgs to Lbs and vice versa.
 * **Temperature converter** It converts Celsius to Fahrenheit and vice versa.
+* **Calculator Program**
 *(More projects will be added here as I continue building!)*
 
 ## 🛠️ How to Run
