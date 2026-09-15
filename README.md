@@ -14,6 +14,7 @@ Currently, this repository contains:
 * **Weight Converter Program** It converts the given weight to kgs to Lbs and vice versa.
 * **Temperature converter** It converts Celsius to Fahrenheit and vice versa.
 * **Calculator Program**
+* **Username Checking Program**
 *(More projects will be added here as I continue building!)*
 
 ## 🛠️ How to Run
