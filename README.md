@@ -13,8 +13,8 @@ Currently, this repository contains:
 * **Email Slicer Program** A console program to determine the username and domain from the given Mail.
 * **Weight Converter Program** It converts the given weight to kgs to Lbs and vice versa.
 * **Temperature converter** It converts Celsius to Fahrenheit and vice versa.
-* **Calculator Program**
-* **Username Checking Program**
+* **Calculator Program**t utilizes Java's enhanced switch statement with arrow syntax (->), making the mathematical logic much cleaner and more concise than traditional switch-case blocks. Exponentiation Support,Operator Validation,Safe Error Handling
+* **Username Checking Program**Length Validation,Character Restriction
 *(More projects will be added here as I continue building!)*
 
 ## 🛠️ How to Run
