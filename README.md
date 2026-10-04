@@ -16,6 +16,8 @@ Currently, this repository contains:
 * **Calculator Program**t utilizes Java's enhanced switch statement with arrow syntax (->), making the mathematical logic much cleaner and more concise than traditional switch-case blocks. Exponentiation Support,Operator Validation,Safe Error Handling
 * **Username Checking Program**Length Validation,Character Restriction
 * **Press Q to quit**
+* **Random Number Guessing Game**
+
 *(More projects will be added here as I continue building!)*
 
 ## 🛠️ How to Run
